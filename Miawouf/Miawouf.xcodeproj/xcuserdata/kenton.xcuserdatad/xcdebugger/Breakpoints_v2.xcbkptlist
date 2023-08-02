@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB50C6F0-3779-4272-BD7E-B97C2B8B4B39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF0E5DA-B895-4A78-9D8C-989011E67639"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Miawouf/Controllers/SuccesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "addNewDog(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CF0E5DA-B895-4A78-9D8C-989011E67639 - d8b6d674d9166663"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Miawouf.SuccesViewController.addNewDog(Any) -&gt; ()"
+                  moduleName = "Miawouf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenton/Desktop/OC_PROJET_MIAWOUF/Miawouf/Sources/Miawouf/Controllers/SuccesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "2CF0E5DA-B895-4A78-9D8C-989011E67639 - 892a3c8f95107656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Miawouf.SuccesViewController.addNewDog(Any) -&gt; ()"
+                  moduleName = "Miawouf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenton/Desktop/OC_PROJET_MIAWOUF/Miawouf/Sources/Miawouf/Controllers/SuccesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
